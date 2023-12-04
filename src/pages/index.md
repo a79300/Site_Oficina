@@ -1,7 +1,10 @@
 ---
-title: Markdown page example
+title: Homepage
 ---
 
-# Markdown page example
+<div align="center">
 
-You don't need React to write simple standalone pages.
+# Oficina Temas Turbo
+
+</div>
+

@@ -57,6 +57,7 @@ const config = {
                     src: 'img/favicon.png',
                 },
                 items: [
+                    {type: 'search', position: 'left'},
                     {to: "clientes", label: "Clientes", position: "left"},
                 ],
                 style: 'dark',

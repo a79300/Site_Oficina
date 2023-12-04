@@ -51,13 +51,12 @@ const config = {
             // Replace with your project's social card
             image: 'img/docusaurus-social-card.jpg',
             navbar: {
-                title: 'Oficina Temas Turbo',
+                title: '**Oficina** Temas Turbo',
                 logo: {
                     alt: 'My Site Logo',
                     src: 'img/favicon.png',
                 },
                 items: [
-                    {type: 'search', position: 'left'},
                     {to: "clientes", label: "Clientes", position: "left"},
                 ],
                 style: 'dark',

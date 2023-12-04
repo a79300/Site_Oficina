@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Test Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Oficina Temas Turbo',
+  tagline: 'Tudo pela Metade do Dobro!',
+  favicon: 'img/favicon.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -29,8 +29,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt',
+    locales: ['pt'],
   },
 
   presets: [

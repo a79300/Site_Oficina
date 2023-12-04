@@ -6,7 +6,7 @@ title: Homepage
 
 Bem-vindo à Oficina Temas Turbo, onde a potência encontra a paixão pelos automóveis! Estamos empenhados em otimizar o desempenho do seu veículo, proporcionando-lhe uma experiência de condução emocionante. A nossa equipa de especialistas está pronta para transformar o seu carro numa máquina turbinada.
 
-<img src="../../static/img/slide-1.jpg">
+![Slider1](../../static/img/slide-1.jpg)
 
 ## Serviços Oferecidos
 

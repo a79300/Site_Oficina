@@ -31,5 +31,5 @@ const sidebars = {
 };
 
 module.exports = {
-docs:['sidebar','index','contacto']
+docs:['sidebar','index','contacto','localizacao']
 };

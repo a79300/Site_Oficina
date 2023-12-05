@@ -30,4 +30,9 @@ const sidebars = {
    */
 };
 
-module.exports = sidebars;
+module.exports = {
+docs:[
+'login',
+'index',
+]
+};

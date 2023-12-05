@@ -1,7 +1,7 @@
 ---
 id: localizacao
-title: Localização
-sidebar_label: Localização
+title: Localizacao
+sidebar_label: Localizacao
 ---
 
 # Nossa Localização

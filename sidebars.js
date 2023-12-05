@@ -31,8 +31,5 @@ const sidebars = {
 };
 
 module.exports = {
-docs:[
-'login',
-'index',
-]
+docs:['sidebar','index','contacto']
 };

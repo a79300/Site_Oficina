@@ -24,7 +24,7 @@ A oficina "Temas Turbo" está convenientemente localizada no seguinte endereço:
 
 Aqui está um mapa interativo para ajudá-lo a encontrar nossa oficina:
 
-[![Oficina Temas Turbo](https://maps.googleapis.com/maps/api/staticmap?center=37.02479185,-7.9414399037414&zoom=14&size=600x400&maptype=roadmap&markers=color:red%7Clabel:T%7C37.02479185,-7.9414399037414)](https://maps.google.com/maps?q=37.02479185,-7.9414399037414&hl=en)
+[![Mapa Oficina](../../static/img/mapa.png)](https://www.google.com/maps/place/37%C2%B001'29.3%22N+7%C2%B056'29.2%22W/@37.0247918,-7.9440148,17z/data=!3m1!4b1!4m4!3m3!8m2!3d37.0247918!4d-7.9414399?hl=en&entry=ttu)
 
 Siga-nos nas redes sociais para ficar atualizado sobre as últimas novidades e projetos emocionantes:
 

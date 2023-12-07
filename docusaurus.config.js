@@ -82,6 +82,23 @@ const config = {
                             },
                         ],
                     },
+                    {
+                        title: 'Contactos',
+                        items: [
+                            {
+                                label: 'Endereço',
+                                href: 'Rua Dr. José Neves Júnior, Pan, 8000-332 Faro',
+                            },
+                            {
+                                label: 'Telefone',
+                                href: '(11) 1234-5678',
+                            },
+                            {
+                                label: 'E-mail',
+                                href: 'info@temasturbo.com',
+                            },
+                        ],
+                    },
                 ],
                 copyright: `Copyright © ${new Date().getFullYear()} Oficina Temas Turbo, Inc. Built with Docusaurus.`,
             },

@@ -64,6 +64,25 @@ const config = {
             },
             footer: {
                 style: 'dark',
+                links: [
+                    {
+                        title: 'Redes Sociais',
+                        items: [
+                            {
+                                label: 'Facebook',
+                                href: 'https://www.facebook.com/seu-usuario',
+                            },
+                            {
+                                label: 'Twitter',
+                                href: 'https://twitter.com/seu-usuario',
+                            },
+                            {
+                                label: 'LinkedIn',
+                                href: 'https://www.linkedin.com/in/seu-usuario',
+                            },
+                        ],
+                    },
+                ],
                 copyright: `Copyright © ${new Date().getFullYear()} Oficina Temas Turbo, Inc. Built with Docusaurus.`,
             },
             prism: {

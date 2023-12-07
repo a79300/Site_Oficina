@@ -66,28 +66,36 @@ const config = {
                 style: 'dark',
                 links: [
                     {
-                        title: 'Docs',
+                        title: 'Redes Sociais',
                         items: [
                             {
-                                label: 'Tutorial',
-                                to: '/docs/intro',
+                                label: 'Facebook',
+                                href: 'https://twitter.com/docusaurus',
+                            },
+                            {
+                                label: 'Instagram',
+                                href: 'https://www.instagram.com/',
+                            },
+                             {
+                                label: 'Twitter',
+                                href: 'https://twitter.com/docusaurus',
                             },
                         ],
                     },
                     {
-                        title: 'Community',
+                        title: 'Contactos',
                         items: [
                             {
-                                label: 'Stack Overflow',
-                                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                                label: 'Endereço: Rua Dr. José Neves Júnior, Pan, 8000-332 Faro',
+                                href: 'https://www.google.com/maps/place/37%C2%B001\'29.3%22N+7%C2%B056\'29.2%22W/@37.0247918,-7.9440148,17z/data=!3m1!4b1!4m4!3m3!8m2!3d37.0247918!4d-7.9414399?hl=en&entry=ttu',
                             },
                             {
-                                label: 'Discord',
+                                label: 'Telefone: (11) 1234-5678',
                                 href: 'https://discordapp.com/invite/docusaurus',
                             },
                             {
-                                label: 'Twitter',
-                                href: 'https://twitter.com/docusaurus',
+                                label: 'E-mail: info@temasturbo.com',
+                                href: 'mailto:info@temasturbo.com',
                             },
                         ],
                     },

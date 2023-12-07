@@ -86,7 +86,7 @@ const config = {
                         title: 'Contactos',
                         items: [
                             {
-                                label: 'Endereço: Rua Dr. José Neves Júnior, Pan, 8000-332 Faro',
+                                label: 'Morada: Rua Dr.José Neves Júnior, Pan, 8000-332 Faro',
                                 href: 'https://www.google.com/maps/place/37%C2%B001\'29.3%22N+7%C2%B056\'29.2%22W/@37.0247918,-7.9440148,17z/data=!3m1!4b1!4m4!3m3!8m2!3d37.0247918!4d-7.9414399?hl=en&entry=ttu',
                             },
                             {

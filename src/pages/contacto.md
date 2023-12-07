@@ -12,7 +12,7 @@ Se você tiver alguma dúvida, feedback ou precisar entrar em contato conosco, s
 
 - **Endereço:** Rua Dr. José Neves Júnior, Pan, 8000-332 Faro
 - **Telefone:** (11) 1234-5678
-- **E-mail:** info@temasturbo.com
+- **E-mail:** [info@temasturbo.com](mailto:info@temasturbo.com)
 
 # Nossa Localização
 

@@ -66,33 +66,28 @@ const config = {
                 style: 'dark',
                 links: [
                     {
-                        title: 'Redes Sociais',
+                        title: 'Docs',
                         items: [
                             {
-                                label: 'Facebook',
-                                href: 'https://www.facebook.com/seu-usuario',
-                            },
-                            {
-                                label: 'Twitter',
-                                href: 'https://twitter.com/seu-usuario',
-                            },
-                            {
-                                label: 'LinkedIn',
-                                href: 'https://www.linkedin.com/in/seu-usuario',
+                                label: 'Tutorial',
+                                to: '/docs/intro',
                             },
                         ],
                     },
                     {
-                        title: 'Contactos',
+                        title: 'Community',
                         items: [
                             {
-                                label: 'Endereço - Rua Dr. José Neves Júnior, Pan, 8000-332 Faro',
+                                label: 'Stack Overflow',
+                                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
                             },
                             {
-                                label: 'Telefone - (11) 1234-5678',
+                                label: 'Discord',
+                                href: 'https://discordapp.com/invite/docusaurus',
                             },
                             {
-                                label: 'E-mail - info@temasturbo.com',
+                                label: 'Twitter',
+                                href: 'https://twitter.com/docusaurus',
                             },
                         ],
                     },
@@ -110,7 +105,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} Oficina Temas Turbo, Inc. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,

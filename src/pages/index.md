@@ -3,7 +3,7 @@ title: Homepage
 ---
 
 # Bem-vindo à Oficina Temas Turbo
-![Oficina Temas Turbo Logo](../../static/img/favicon.png)
+![Oficina Temas Turbo Logo](../../static/img/turbo.jpg)
 
 Potência na Manutenção, Eficiência na Performance: Sua Oficina Turbo em Alta Rotação
 

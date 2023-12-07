@@ -2,32 +2,25 @@
 title: Homepage
 ---
 
-Oficina Temas Turbo - Especialistas em Potência Automóvel
----------------------------------------------------------
+# Bem-vindo à Oficina Temas Turbo
+![Oficina Temas Turbo Logo](../../static/img/favicon.png)
 
-`Bem-vindo à Oficina Temas Turbo, onde a potência encontra a paixão pelos automóveis! Estamos empenhados em otimizar o desempenho do seu veículo, proporcionando-lhe uma experiência de condução emocionante. A nossa equipa de especialistas está pronta para transformar o seu carro numa máquina turbinada.``
+Potência na Manutenção, Eficiência na Performance: Sua Oficina Turbo em Alta Rotação
 
-![Slider1](../../static/img/slide-1.jpg)
+Seja bem-vindo à Oficina Temas Turbo, a solução especializada em gestão e serviços para oficinas mecânicas automotivas focadas em sistemas de turbocompressores. Simplifique sua rotina, potencialize sua eficiência e coloque sua oficina turbo em alta rotação com nossa aplicação intuitiva e poderosa.
 
-## Serviços Oferecidos
+## Principais Recursos
 
-### Montagem de Turbo
+- **Manutenção Especializada:** Controle completo das operações da sua oficina turbo, desde o diagnóstico até a otimização do desempenho, de forma simples e organizada.
 
-Dê ao seu carro um impulso significativo de potência com a nossa montagem profissional de turbo. Utilizamos tecnologia de última geração e peças de alta qualidade para garantir um desempenho máximo.
+- **Aprimoramento de Turbos:** Potencialize a performance dos veículos com serviços especializados no ajuste e personalização de sistemas de turbo.
 
-### Afinamento de Motor
+- **Monitoramento em Tempo Real:** Acompanhe o desempenho dos turbos em tempo real, visualizando métricas essenciais para o seu negócio.
 
-Ajustamos o seu motor para otimizar a eficiência do turbo, assegurando uma resposta instantânea e um aumento notável na potência. A nossa afinação é personalizada para satisfazer as suas necessidades e preferências.
+## Por que Escolher a Oficina Temas Turbo?
 
-### Manutenção Especializada
+- **Experiência Turbo:** Nossa aplicação foi projetada especificamente para oficinas especializadas em turbos, garantindo uma interface intuitiva mesmo para aqueles sem experiência técnica.
 
-Oferecemos serviços de manutenção especializada para garantir que o seu sistema turbo funcione de forma eficiente e duradoura. Diagnósticos regulares e cuidados preventivos são essenciais para manter o desempenho do seu veículo.
+- **Suporte Turbo Eficiente:** Equipe dedicada pronta para ajudar e oferecer suporte técnico sempre que necessário.
 
-## Porquê Escolher a Oficina Temas Turbo?
-- **Experiência Profissional**: A nossa equipa possui uma vasta experiência em trabalhar com sistemas turbo, garantindo resultados excecionais.
-- **Compromisso com a Qualidade**: Utilizamos apenas as melhores peças e técnicas de montagem para garantir a qualidade e durabilidade.
-- **Atendimento Personalizado**: Cada veículo é único, e adaptamos os nossos serviços para atender às necessidades específicas do seu carro.
-
-
-
-Junte-se a nós na Oficina Temas Turbo e sinta o poder de um veículo turbinado!
+- **Turbo Atualizações Constantes:** Estamos comprometidos em melhorar continuamente nossa aplicação, trazendo novos recursos e aprimoramentos específicos para oficinas turbo.

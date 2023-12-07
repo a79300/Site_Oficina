@@ -10,15 +10,15 @@ Se você tiver alguma dúvida, feedback ou precisar entrar em contato conosco, s
 
 ## Informações de Contato
 
-- **Endereço:** Rua Temas Turbo, 123, Cidade Turbo
+- **Endereço:** Rua Dr. José Neves Júnior, Pan, 8000-332 Faro
 - **Telefone:** (11) 1234-5678
-- **E-mail:** contato@temasturbo.com
+- **E-mail:** info@temasturbo.com
 
 # Nossa Localização
 
 A oficina "Temas Turbo" está convenientemente localizada no seguinte endereço:
 
-- **Endereço:** Rua Temas Turbo, 123, Cidade Turbo
+- **Endereço:** Rua Dr. José Neves Júnior, Pan, 8000-332 Faro
 
 ## Mapa
 

@@ -30,4 +30,6 @@ const sidebars = {
    */
 };
 
-module.exports = sidebars;
+module.exports = {
+docs:['sidebar','index','contacto','localizacao']
+};

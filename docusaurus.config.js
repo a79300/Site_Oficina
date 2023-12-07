@@ -48,9 +48,6 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-            styles: [
-                '/src/css/custom-styles.css',
-            ],
             image: 'img/docusaurus-social-card.jpg',
             navbar: {
                 title: 'Oficina Temas Turbo',

@@ -58,12 +58,13 @@ const config = {
                 },
                 items: [
                     {to: "clientes", label: "Clientes", position: "left"},
+                    {to: "sobre_nos", label: "Sobre Nós", position: "left"},
                 ],
                 style: 'dark',
             },
             footer: {
                 style: 'dark',
-                copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} Oficina Temas Turbo, Inc. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,

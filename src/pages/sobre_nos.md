@@ -1,6 +1,9 @@
 ---
+id: sobre_nos
 title: Sobre Nós
+sidebar_label: Sobre Nós
 ---
+
 
 # Temas Turbo - Especialistas em Turbos
 

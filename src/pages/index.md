@@ -24,3 +24,8 @@ Seja bem-vindo à Oficina Temas Turbo, a solução especializada em gestão e se
 - **Suporte Turbo Eficiente:** Equipe dedicada pronta para ajudar e oferecer suporte técnico sempre que necessário.
 
 - **Turbo Atualizações Constantes:** Estamos comprometidos em melhorar continuamente nossa aplicação, trazendo novos recursos e aprimoramentos específicos para oficinas turbo.
+
+
+| **Serviço**                 | **Descrição**                                                                                                  | **Benefícios**                                                                                                             |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Manutenção Geral**        | Realizamos revisões periódicas para garantir o bom estado do seu veículo.                                      | Aumento da vida útil do carro e detecção precoce de possíveis problemas.                                                   |

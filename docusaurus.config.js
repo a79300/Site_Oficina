@@ -48,7 +48,9 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-            // Replace with your project's social card
+            styles: [
+                '/src/css/custom-styles.css',
+            ],
             image: 'img/docusaurus-social-card.jpg',
             navbar: {
                 title: 'Oficina Temas Turbo',
@@ -76,7 +78,7 @@ const config = {
                                 label: 'Instagram',
                                 href: 'https://www.instagram.com/',
                             },
-                             {
+                            {
                                 label: 'Twitter',
                                 href: 'https://twitter.com/docusaurus',
                             },

@@ -98,7 +98,7 @@ const config = {
                                 href: 'info@temasturbo.com',
                             },
                         ],
-                    },
+                    }
                 ],
                 copyright: `Copyright © ${new Date().getFullYear()} Oficina Temas Turbo, Inc. Built with Docusaurus.`,
             },

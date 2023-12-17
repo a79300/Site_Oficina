@@ -57,6 +57,7 @@ const config = {
                 },
                 items: [
                     {to: "servicos", label: "Serviços", position: "left"},
+                    {to: "planos", label: "Planos", position: "left"},
                     {to: "contacto", label: "Contactos", position: "left"},
                     {to: "sobre_nos", label: "Sobre Nós", position: "left"},
                 ],

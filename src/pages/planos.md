@@ -26,4 +26,9 @@ Bem-vindo à nossa oficina especializada em serviços de turbo para veículos. O
 |         |                                                          | - Personalização avançada para otimização do turbo    |
 |         |                                                          | - Atendimento prioritário e suporte exclusivo          |
 
+## Como Contratar
+
+Para contratar um dos nossos planos ou para obter mais informações, entre em contato conosco. Estamos aqui para fornecer soluções eficientes e personalizadas para atender às suas necessidades.
+
+Esperamos poder ajudá-lo a obter o máximo desempenho do turbo do seu veículo!
 

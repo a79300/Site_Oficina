@@ -58,6 +58,7 @@ const config = {
                 items: [
                     {to: "contacto", label: "Contactos", position: "left"},
                     {to: "sobre_nos", label: "Sobre Nós", position: "left"},
+                    {to: "servicos", label: "Serviços", position: "left"},
                 ],
                 style: 'dark',
             },
